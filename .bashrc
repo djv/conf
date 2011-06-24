@@ -135,3 +135,17 @@ parse_git_branch() {
 }
 
 export PS1="\[\033[00m\]\u@\h\[\033[01;34m\] \W \[\033[31m\]\$(parse_git_branch) \[\033[00m\]$\[\033[00m\] "
+
+alias ga='git add'
+alias gp='git push'
+alias gl='git log --pretty="format:%ad %h (%an): %s" --date=short'
+alias gs='git status'
+alias gd='git diff'
+alias gm='git commit -m'
+alias gam='git commit -am'
+alias gb='git branch'
+alias gc='git checkout'
+alias gra='git remote add'
+alias grr='git remote rm'
+alias gpu='git pull --rebase'
+alias gcl='git clone'
