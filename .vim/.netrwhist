@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/dvelkov/courses/ml/ex1'
-let g:netrw_dirhist_2='/Users/dvelkov/mule-standalone-3.2.0/conf'
-let g:netrw_dirhist_3='/Users/dvelkov/courses/ml/ex2'
-let g:netrw_dirhist_4='/Users/dvelkov/courses/ml/ex1'
-let g:netrw_dirhist_5='/Users/dvelkov/.vim/bundle/syntastic/syntax_checkers/python'
-let g:netrw_dirhist_6='/Users/dvelkov/Dropbox/projects/haskell'
-let g:netrw_dirhist_7='/Users/dvelkov/Dropbox/projects/haskell/plugs'
